@@ -19,3 +19,15 @@
 [submodule "o1js-bindings"]
 	path = o1js-bindings
 	url = https://github.com/o1-labs/o1js-bindings.git
+[submodule "mina-accounts-manager"]
+	path = mina-accounts-manager
+	url = https://github.com/shimkiv/mina-accounts-manager/
+[submodule "rfcs"]
+	path = rfcs
+	url = https://github.com/o1-labs/rfcs
+[submodule "Archive-Node-API"]
+	path = Archive-Node-API
+	url = https://github.com/o1-labs/Archive-Node-API
+[submodule "mina"]
+	path = mina
+	url = https://github.com/MinaProtocol/mina
