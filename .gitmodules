@@ -1,0 +1,21 @@
+[submodule "o1js"]
+	path = o1js
+	url = https://github.com/o1-labs/o1js
+[submodule "snarky"]
+	path = snarky
+	url = https://github.com/o1-labs/snarky
+[submodule "proof-systems"]
+	path = proof-systems
+	url = https://github.com/o1-labs/proof-systems
+[submodule "zkapp-cli"]
+	path = zkapp-cli
+	url = https://github.com/o1-labs/zkapp-cli.git
+[submodule "docs2"]
+	path = docs2
+	url = https://github.com/o1-labs/docs2
+[submodule "mina-lightnet-docker"]
+	path = mina-lightnet-docker
+	url = https://github.com/o1-labs/mina-lightnet-docker.git
+[submodule "o1js-bindings"]
+	path = o1js-bindings
+	url = https://github.com/o1-labs/o1js-bindings.git
